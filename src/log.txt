@@ -1,0 +1,27 @@
+14/09/2015:
+- Primera Versión.
+
+v1.1 - 16/09/2015:
+- Mejorada la estabilidad del programa.
+- Arreglado un bug por el solo se comprobaba si los canales estaban online la primera vez.
+
+v2 - 17/09/2015:
+- Rediseñado el bot para mejorar la estabilidad y poder añadirle nuevas funciones
+- Añadido un generador de keys aleatorias como nueva caracteristica
+- Cambio del nombre de ahBot a dmBot (Ya no solo servira para hacer autohost).
+- Añadido la funcion de sorteo
+
+v2.1 - 18/09/2015:
+- Añadido control de varias excepciones.
+- Cambiado la captura del archivo de configuracion
+
+v2.2 - 19/09/2015:
+- Añadida la caracteristica de votaciones.
+
+v2.3 - 22/09/2015:
+-Mejorada la estabilidad del sistema.
+-Cambio de comandos y adicion de nuevos.
+-Añadida funcion auto saludar
+
+v2.4 - 30/09/2015:
+-Añadida la posibilidad de sacar el titulo, views, juego y seguidores
